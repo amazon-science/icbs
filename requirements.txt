@@ -1,0 +1,25 @@
+
+# ML
+accelerate==0.27.2
+huggingface_hub[cli,torch]
+sentencepiece==0.2.0
+timm==0.9.16
+torch==2.2.2
+torchvision==0.17.2
+transformers==4.40.1
+
+# Data structures
+bitarray==2.9.2
+datasets==2.17.1
+
+# Examples
+jupyter==1.0.0
+
+# Plotting
+matplotlib==3.8.2
+
+# Scientific computing
+numpy==1.26.4
+
+# Development
+pytest==8.1.1
