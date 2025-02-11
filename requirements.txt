@@ -6,7 +6,7 @@ sentencepiece==0.2.0
 timm==0.9.16
 torch==2.2.2
 torchvision==0.17.2
-transformers==4.40.1
+transformers==4.48.0
 
 # Data structures
 bitarray==2.9.2
